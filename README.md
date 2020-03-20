@@ -1,4 +1,4 @@
-# ch225js
+# ch225JS
 ## What is this?
 
 This is my first npm package.
