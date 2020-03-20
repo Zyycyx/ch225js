@@ -1,0 +1,22 @@
+{
+  "name": "ch225",
+  "version": "1.0.1",
+  "description": "Only a cl module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zyycyx/ch225js.git"
+  },
+  "keywords": [
+    "Console"
+  ],
+  "author": "Zyycyx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zyycyx/ch225js/issues"
+  },
+  "homepage": "https://github.com/Zyycyx/ch225js#readme"
+}

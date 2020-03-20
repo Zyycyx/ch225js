@@ -1,5 +1,4 @@
-function log(options){
-    console.log(options);
-}
-
-module.exports.ch225 = ch225;
+let txt = "";
+exports.log = function(txt){
+	console.log(txt);
+};
