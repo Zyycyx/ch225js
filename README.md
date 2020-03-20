@@ -1,13 +1,13 @@
 # ch225js
-# What is this?
+## What is this?
 
 This is my first npm package.
 
-# Install
+## Install
 
 npm i ch225 --save
 
-# How to use?
+## How to use?
 
 ```javascript
 var ch225 = require('ch225');
